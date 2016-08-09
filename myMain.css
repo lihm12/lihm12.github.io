@@ -37,6 +37,20 @@ h1{
     color: #23527c;
 }
 
-#lang{
-
+.null1{
+    width: 10%;
+    float: left;
+    border: solid red;
+}
+.left2{
+    width: 30%;
+    float: left;
+}
+.right3{
+    width: 60%;
+    float: left;
+}
+#column1,#column2{
+    float: left;
+    width: 50%;
 }
